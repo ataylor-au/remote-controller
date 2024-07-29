@@ -1,0 +1,18 @@
+[
+  {
+    "slotId": 0,
+    "device": "garage"
+  },
+  {
+    "slotId": 1,
+    "device": "dishwasher"
+  },
+  {
+    "slotId": 2,
+    "device": "light"
+  },
+  {
+    "slotId": 4,
+    "device": "undo"
+  }
+]

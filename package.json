@@ -1,0 +1,22 @@
+{
+  "name": "remote-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "serve": "npx ts-node src/index.ts"
+  },
+  "author": "Andrew Taylor",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@effect/schema": "^0.69.2",
+    "effect": "^3.5.8",
+    "express": "^4.19.2"
+  }
+}
